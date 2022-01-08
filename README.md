@@ -1,1 +1,1 @@
-# multi_agent
+# Multi-Agent Collaborative Game Project
